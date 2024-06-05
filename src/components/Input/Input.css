@@ -1,0 +1,21 @@
+.text-area {
+    padding: 2em;
+    border-radius: 2em;
+    color: #646cffaa;
+    border-color: #242424;
+    resize: none;
+  }
+  
+.text-area:focus {
+    outline: none;
+    border-color: #646cffaa;
+}
+
+.error {
+  border-color: #fb6161aa;
+}
+
+.error:focus {
+  outline: none;
+  border-color: #fb6161aa;
+}
